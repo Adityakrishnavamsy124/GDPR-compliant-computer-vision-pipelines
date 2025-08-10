@@ -1,9 +1,9 @@
 # Real-Time AI-Based GDPR Anonymization for Mobility & Robotics Data
 
 
-A fully Dockerized FastAPI service that leverages OpenCV to perform real-time anonymization of faces and vehicle license plates in images and video streams. This intelligent computer vision application is optimized for GDPR compliance, making it ideal for autonomous driving datasets and privacy-sensitive environments.
+An intelligent Computer Vision application that automatically detects and blurs faces and vehicle license plates in images and videos in real-time using OpenCV.
 
-This project delivers a fully Dockerized lightweight FastAPI service for real-time anonymization of images, offering a robust and scalable solution across various applications. It is  optimized to comply with data privacy regulations such as the General Data Protection Regulation (GDPR) and HIPAA giving results in realtime.
+This project delivers a fully Dockerized lightweight FastAPI service for real-time anonymization of video streams, offering a robust and scalable solution across various applications. It is carefully optimized to comply with strict data privacy regulations such as the General Data Protection Regulation (GDPR) and HIPAA.
 
 
 ---
